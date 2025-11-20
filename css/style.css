@@ -208,6 +208,7 @@ button {
     height: 40px;
     border-radius: 50%;
     background: var(--bg-section);
+    color: var(--text-dark);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -221,6 +222,7 @@ button {
 
 .theme-toggle i {
     font-size: 1.2rem;
+    color: inherit;
 }
 
 /* ===================================
